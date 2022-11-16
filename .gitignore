@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+/target
+.clj-kondo/.cache
+.lsp/.cache
